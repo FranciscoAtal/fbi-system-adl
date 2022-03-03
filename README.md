@@ -21,7 +21,7 @@ usuario no está autorizado y un mensaje que menciona la descripción del error.
 - Se utiliza el motor de plantillas **handlebars**
 - El SECRET y el TTL del **JWT** se obtienen de un **.env**
 - Un **middleware** restringe las rutas que empiecen con underscore
-- Hay una ruta para cerrar sesión
+- Hay una ruta para borrar el token
 
 ## Estructura del proyecto
 ```plain
