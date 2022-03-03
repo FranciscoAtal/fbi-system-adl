@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Fabiola Tempini",
+    "email": "fabiola@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Fabrizio Rossier",
+    "email": "fabrizio@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Felipe Olmos",
+    "email": "felipe@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Francisco Atal",
+    "email": "francisco@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Gabriela Pérez",
+    "email": "gabriela@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Gervy Gonzalez",
+    "email": "gervy@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Johans Samsing",
+    "email": "johans@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Juan Quezada",
+    "email": "juan@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Jun Wang",
+    "email": "jun@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Rafael Escobar",
+    "email": "rafael@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Renato Munizaga",
+    "email": "renato@fbi.com",
+    "password": "password"
+  },
+  {
+    "nombre": "Rodrigo Tapia",
+    "email": "rodrigo@fbi.com",
+    "password": "password"
+  }
+]
